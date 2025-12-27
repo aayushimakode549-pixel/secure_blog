@@ -1,0 +1,21 @@
+# Task 5 – Final Project Integration and Testing
+
+## Objective
+To integrate all implemented features into a single cohesive application and ensure smooth functionality through testing and debugging.
+
+## Integration
+- Integrated CRUD operations (Create, Read, Update, Delete).
+- Combined search, pagination, authentication, and security enhancements.
+- Ensured all modules work seamlessly together.
+
+## Testing and Debugging
+- Performed functional testing for all features.
+- Identified and fixed bugs related to post management and authentication.
+- Verified security measures and access control.
+
+## Deliverables
+- A fully functional and polished blog application.
+- Updated GitHub repository with final project code.
+
+## Conclusion
+Task 5 completes the project by integrating all features and delivering a stable, secure, and production-ready application.
